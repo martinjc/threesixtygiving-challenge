@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+src_data_non_public/
+
 # C extensions
 *.so
 
